@@ -1,6 +1,6 @@
 # Automatic Redis Failover
 
-[![Build Status](https://secure.travis-ci.org/ryanlecompte/redis_failover.png?branch=master)](http://travis-ci.org/ryanlecompte/redis_failover)
+[![Build Status](https://secure.travis-ci.org/SPBTV/spbtv_redis_failover.png?branch=master)](http://travis-ci.org/SPBTV/spbtv_redis_failover)
 
 redis_failover provides a full automatic master/slave failover solution for Ruby. Redis does not currently provide
 an automatic failover capability when configured for master/slave replication. When the master node dies,
